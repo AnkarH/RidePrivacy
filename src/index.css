@@ -1,0 +1,95 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+  }
+}
+
+/* 自定义配色变量 */
+:root {
+  --primary-light: #efdbcb;
+  --primary-blue: #4ab3df;
+  --primary-dark: #345ea7;
+  --primary-medium: #3c8ac4;
+}
+
+/* 全局样式增强 */
+body {
+  background: linear-gradient(135deg, #efdbcb 0%, #88f4ff 100%);
+  min-height: 100vh;
+}
+
+/* 卡片阴影和圆角增强 */
+.ant-card {
+  box-shadow: 0 2px 8px rgba(52, 94, 167, 0.08), 0 1px 3px rgba(0, 0, 0, 0.1) !important;
+  border-radius: 16px !important;
+  transition: all 0.3s ease !important;
+  border: none !important;
+  margin-bottom: 16px !important;
+}
+
+.ant-card:hover {
+  box-shadow: 0 8px 25px rgba(52, 94, 167, 0.12), 0 4px 12px rgba(0, 0, 0, 0.08) !important;
+  transform: translateY(-3px) !important;
+}
+
+/* 卡片间距优化 */
+.ant-card + .ant-card {
+  margin-top: 16px !important;
+}
+
+/* 按钮样式增强 */
+.ant-btn-primary {
+  background: linear-gradient(135deg, #4ab3df 0%, #3c8ac4 100%) !important;
+  border: none !important;
+  box-shadow: 0 4px 12px rgba(74, 179, 223, 0.3) !important;
+  transition: all 0.3s ease !important;
+}
+
+.ant-btn-primary:hover {
+  background: linear-gradient(135deg, #3c8ac4 0%, #345ea7 100%) !important;
+  box-shadow: 0 6px 16px rgba(74, 179, 223, 0.4) !important;
+  transform: translateY(-1px) !important;
+}
+
+/* 输入框样式增强 */
+.ant-input {
+  border: 1px solid rgba(74, 179, 223, 0.3) !important;
+  border-radius: 12px !important;
+  transition: all 0.3s ease !important;
+  background: rgba(255, 255, 255, 0.8) !important;
+}
+
+.ant-input:focus {
+  border-color: #4ab3df !important;
+  box-shadow: 0 0 0 3px rgba(74, 179, 223, 0.15) !important;
+  background: rgba(255, 255, 255, 0.95) !important;
+}
+
+/* Leaflet 自定义图标样式 */
+.custom-div-icon {
+  background: transparent !important;
+  border: none !important;
+}
+
+/* 自定义滚动条 */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #efdbcb;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(135deg, #4ab3df 0%, #3c8ac4 100%);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(135deg, #3c8ac4 0%, #345ea7 100%);
+}

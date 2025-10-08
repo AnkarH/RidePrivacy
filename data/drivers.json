@@ -1,0 +1,242 @@
+[
+  {
+    "id": "d-1",
+    "lat": 39.998286,
+    "lon": 116.326469,
+    "h3Cell": "85283478fffffff",
+    "encryptedBuckets": [
+      "b49679dbeadfb67db0a14a4199ef8620",
+      "6df110078509353da71d9b59444b1d88",
+      "25425541490372baabc93e8b6d9bdc42"
+    ],
+    "status": "available"
+  },
+  {
+    "id": "d-2",
+    "lat": 40.004342,
+    "lon": 116.327864,
+    "h3Cell": "85283472fffffff",
+    "encryptedBuckets": [
+      "4e0b7e5613adaf6e175c4a75db5c32a2",
+      "8237e89cddaa9a4079675774c22f73f0",
+      "43e3327275268a9d0b8bcd5ffed1825e"
+    ],
+    "status": "available"
+  },
+  {
+    "id": "d-3",
+    "lat": 40.001571,
+    "lon": 116.326999,
+    "h3Cell": "85283479fffffff",
+    "encryptedBuckets": [
+      "f84dddaec05a8367e7215503f18d99e8",
+      "66cd2aba0e33a5b1d93f1017afef3a7a",
+      "a961f13e1aa3cf5d477d382e3fe0243b"
+    ],
+    "status": "available"
+  },
+  {
+    "id": "d-4",
+    "lat": 39.999755,
+    "lon": 116.3322,
+    "h3Cell": "85283474fffffff",
+    "encryptedBuckets": [
+      "37797c08b5c5b1be628d0b94adec1e60",
+      "25b3f907cb148874154af152ab83d4c8",
+      "9ace146e6d4da0a93bc6ec355c529773"
+    ],
+    "status": "available"
+  },
+  {
+    "id": "d-5",
+    "lat": 40.003522,
+    "lon": 116.328182,
+    "h3Cell": "85283477fffffff",
+    "encryptedBuckets": [
+      "456b1b158adf2450281ddd44b45b4ac7",
+      "80525ebb6121da098b1448b426a3da29",
+      "481b10d44aadd1501f7a99c37ede8499"
+    ],
+    "status": "available"
+  },
+  {
+    "id": "d-6",
+    "lat": 40.000669,
+    "lon": 116.334493,
+    "h3Cell": "85283474fffffff",
+    "encryptedBuckets": [
+      "5e940d2b70c4c365d567408272cf9420",
+      "492b45a22aabcd66a4ff13338fb13965",
+      "4b1d50d7f2b9b1e4bd441169f69f47eb"
+    ],
+    "status": "available"
+  },
+  {
+    "id": "d-7",
+    "lat": 40.000076,
+    "lon": 116.329013,
+    "h3Cell": "85283475fffffff",
+    "encryptedBuckets": [
+      "1cbb1c5b7a267f64b4c29b582fb02e37",
+      "fd483e56a6f290073ea3b20c1f82978f",
+      "1e84a2eca52ab87560f291eff2bf7593"
+    ],
+    "status": "available"
+  },
+  {
+    "id": "d-8",
+    "lat": 39.998946,
+    "lon": 116.330855,
+    "h3Cell": "85283477fffffff",
+    "encryptedBuckets": [
+      "8e3a8e731868d71252700b8d7dedb970",
+      "4fec1351920645dd3b7bc570f330fe62",
+      "0b5913c07ef6dcd1e1f1fd7fd3ade793"
+    ],
+    "status": "available"
+  },
+  {
+    "id": "d-9",
+    "lat": 40.001585,
+    "lon": 116.325091,
+    "h3Cell": "85283476fffffff",
+    "encryptedBuckets": [
+      "907ad7f71c047bd13da09425d71d3d8b",
+      "89bb4a0cdd96908b45fbc6dc2c152fad",
+      "c259b023639f66c9648bde6344735b86"
+    ],
+    "status": "available"
+  },
+  {
+    "id": "d-10",
+    "lat": 39.99915,
+    "lon": 116.334378,
+    "h3Cell": "85283473fffffff",
+    "encryptedBuckets": [
+      "6bb177bcf0b2416623a21ac6df54859b",
+      "1e730322eeba19d00a31745ee3740d9b",
+      "6fad310a81a46d19a49be912b61ea70e"
+    ],
+    "status": "available"
+  },
+  {
+    "id": "d-11",
+    "lat": 40.00253,
+    "lon": 116.330475,
+    "h3Cell": "85283474fffffff",
+    "encryptedBuckets": [
+      "061d1223598cfe998b3a79dc61e19b7b",
+      "77c9837e7ea4ae311b0dd14acfa9e1c4",
+      "56015521fb1397c0a89e9d2b8999dd77"
+    ],
+    "status": "available"
+  },
+  {
+    "id": "d-12",
+    "lat": 39.995092,
+    "lon": 116.328273,
+    "h3Cell": "85283471fffffff",
+    "encryptedBuckets": [
+      "0a9356087113a1fb8ac868d22c6f94d2",
+      "c8464dfcf0c3730c302de80b1eaad6ae",
+      "50682709c4ced1bd2957bd5cc062eefe"
+    ],
+    "status": "available"
+  },
+  {
+    "id": "d-13",
+    "lat": 40.004883,
+    "lon": 116.33079,
+    "h3Cell": "85283472fffffff",
+    "encryptedBuckets": [
+      "f9efd361773c31aae8ced8a0165a76fc",
+      "a640f4dd3bd4850cff75ef2cd35abd65",
+      "57552eeddf270ae787dc4b59ac8d17e0"
+    ],
+    "status": "available"
+  },
+  {
+    "id": "d-14",
+    "lat": 40.004629,
+    "lon": 116.329317,
+    "h3Cell": "85283472fffffff",
+    "encryptedBuckets": [
+      "50f3f99d889478f1ce92cd03338ffb5b",
+      "3b62321ab965da3ccebf755f2fe53254",
+      "e4e05f0d531df9cc613931a36d09df01"
+    ],
+    "status": "available"
+  },
+  {
+    "id": "d-15",
+    "lat": 40.000416,
+    "lon": 116.333861,
+    "h3Cell": "85283473fffffff",
+    "encryptedBuckets": [
+      "143622cb790c0f04e188e90bed44a70c",
+      "f407876a7a91a5e67387bad10b1c4cc0",
+      "776b462a7f7062db754fa97d3218bf58"
+    ],
+    "status": "available"
+  },
+  {
+    "id": "d-16",
+    "lat": 40.001316,
+    "lon": 116.328427,
+    "h3Cell": "85283473fffffff",
+    "encryptedBuckets": [
+      "45daf5d00d490dc8c34a042e1ad1ff9a",
+      "d870cdb2e7df62ab3e9427bdc240673e",
+      "15802fc56e13c4b2dc686ed1a01db8af"
+    ],
+    "status": "available"
+  },
+  {
+    "id": "d-17",
+    "lat": 40.004691,
+    "lon": 116.332953,
+    "h3Cell": "85283470fffffff",
+    "encryptedBuckets": [
+      "f875654fbe8f2bd5faae0c4d2f0c5662",
+      "9ff598a67b39cdc60df371730ecab228",
+      "f1db4f9f0f270b30b4fc7140beab9226"
+    ],
+    "status": "available"
+  },
+  {
+    "id": "d-18",
+    "lat": 40.00095,
+    "lon": 116.329983,
+    "h3Cell": "85283473fffffff",
+    "encryptedBuckets": [
+      "f07921261848a01b255be5260fc804c0",
+      "8f433268031fe82a52636b94491053ce",
+      "908072cfac85a86b9e25d1e2469439f9"
+    ],
+    "status": "available"
+  },
+  {
+    "id": "d-19",
+    "lat": 40.0022,
+    "lon": 116.330245,
+    "h3Cell": "85283470fffffff",
+    "encryptedBuckets": [
+      "8198d21ce7941eb3c188d6e59cb30881",
+      "4e4e83adfb5b933a6ff318bcbcb3018e",
+      "69c4d1fd432825df7b23c8ffa8982bcd"
+    ],
+    "status": "available"
+  },
+  {
+    "id": "d-20",
+    "lat": 40.001799,
+    "lon": 116.326124,
+    "h3Cell": "85283479fffffff",
+    "encryptedBuckets": [
+      "8cd1803ae4210252a8c0e34cea84d447",
+      "1066c9f47ee9e3c08852233f13595b5f",
+      "319c81a75e959e0db610d0d498374fe3"
+    ],
+    "status": "available"
+  }
+]

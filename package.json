@@ -1,0 +1,51 @@
+{
+  "name": "ride-privacy-demo",
+  "version": "1.0.0",
+  "description": "打车场景下的位置信息保护演示",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite",
+    "server": "node server/index.js",
+    "dev:full": "concurrently \"npm run server\" \"npm run dev\""
+  },
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "@types/leaflet": "^1.9.20",
+    "antd": "^5.27.4",
+    "concurrently": "^8.2.2",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.2.0",
+    "express": "^4.18.2",
+    "framer-motion": "^10.16.4",
+    "h3-js": "^4.1.0",
+    "leaflet": "^1.9.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-leaflet": "^4.2.1",
+    "socket.io": "^4.7.4",
+    "socket.io-client": "^4.7.4",
+    "tweetnacl": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@vitejs/plugin-react": "^4.7.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.3.6",
+    "typescript": "^5.2.2",
+    "vite": "^5.4.20"
+  },
+  "keywords": [
+    "privacy",
+    "cryptography",
+    "location",
+    "ride-sharing",
+    "demo"
+  ],
+  "author": "Your Team",
+  "license": "MIT"
+}
